@@ -1,0 +1,17 @@
+edu/fekrat/music_api/repositories/ArtistRepository.class
+edu/fekrat/music_api/exceptions/BadParameterException.class
+edu/fekrat/music_api/controllers/ArtistController.class
+edu/fekrat/music_api/initializer/MusicDataInitializer.class
+edu/fekrat/music_api/MusicApiApplication.class
+edu/fekrat/music_api/services/AlbumServiceImpl.class
+edu/fekrat/music_api/entities/Album.class
+edu/fekrat/music_api/exceptions/GlobalExceptionHandler.class
+edu/fekrat/music_api/services/ArtistServiceImpl.class
+edu/fekrat/music_api/entities/Artist.class
+edu/fekrat/music_api/exceptions/AlreadyExistsException.class
+edu/fekrat/music_api/dtos/ApiExceptionDto.class
+edu/fekrat/music_api/controllers/AlbumController.class
+edu/fekrat/music_api/services/AlbumService.class
+edu/fekrat/music_api/exceptions/NotFoundException.class
+edu/fekrat/music_api/services/ArtistService.class
+edu/fekrat/music_api/repositories/AlbumRepository.class

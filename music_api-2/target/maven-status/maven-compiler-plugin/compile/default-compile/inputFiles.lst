@@ -1,0 +1,17 @@
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/MusicApiApplication.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/controllers/AlbumController.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/controllers/ArtistController.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/dtos/ApiExceptionDto.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/entities/Album.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/entities/Artist.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/exceptions/AlreadyExistsException.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/exceptions/BadParameterException.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/exceptions/GlobalExceptionHandler.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/exceptions/NotFoundException.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/initializer/MusicDataInitializer.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/repositories/AlbumRepository.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/repositories/ArtistRepository.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/services/AlbumService.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/services/AlbumServiceImpl.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/services/ArtistService.java
+/Users/sidiqafekrat/Downloads/music_api/src/main/java/edu/fekrat/music_api/services/ArtistServiceImpl.java
